@@ -17,7 +17,7 @@
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=maxbronnikov10&show_icons=true&theme=radical&hide_border=true&locale=en" alt="maxbronnikov10" /></p>
 
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=maxbronnikov10&show_icons=true&theme=radical&hide_border=true&locale=en&layout=compact" alt="r34son" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=maxbronnikov10&show_icons=true&theme=radical&hide_border=true&locale=en&layout=compact" alt="maxbronnikov10" /></p>
 
 <h3 align="center">Connect with me</h3>
 <p align="center">
