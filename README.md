@@ -25,3 +25,4 @@ I'm a fullstack developer. I'm from Russia, living in Moskow and currently worki
 <a href="https://t.me/yungpiggy"><img src="https://raw.githubusercontent.com/maxbronnikov10/maxbronnikov10/master/telegram.gif"   width="50px"></a>
 <a href="https://instagram.com/theyungpiggy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="maxbronnikov10" height="30" width="40" /></a>
 </p>
+<a target="_blank" href="https://icons8.com/icon/zwt6G9HIBTaK/goal">Goal</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
