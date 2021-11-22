@@ -15,10 +15,13 @@ I'm a fullstack developer. I'm from Russia, living in Moskow and currently worki
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
-![C#](https://img.shields.io/badge/-C#-000?&logo=Csharp)
+![C#](https://img.shields.io/badge/-CSharp-000?&logo=CSharp)
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
+![.NET](https://img.shields.io/badge/-.NET-000?&logo=.NET)
+
+
 
 ### Technologies
 
