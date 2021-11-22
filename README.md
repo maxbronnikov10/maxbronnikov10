@@ -5,7 +5,7 @@ I'm a fullstack developer. I'm from Russia, living in Moskow and currently worki
 
 
 - <img src="https://raw.githubusercontent.com/maxbronnikov10/maxbronnikov10/master/loading.gif"> I’m currently learning everything <img src="https://raw.githubusercontent.com/maxbronnikov10/maxbronnikov10/master/loading.gif">
-- <img src="https://raw.githubusercontent.com/maxbronnikov10/maxbronnikov10/master/goal.svg" width="12px">  2021-2022 Goals: More and more development <img src="https://raw.githubusercontent.com/maxbronnikov10/maxbronnikov10/master/goal.svg" width="12px"> 
+- <img src="https://raw.githubusercontent.com/maxbronnikov10/maxbronnikov10/master/goal.svg" width="12px" height="12px">  2021-2022 Goals: More and more development <img src="https://raw.githubusercontent.com/maxbronnikov10/maxbronnikov10/master/goal.svg" width="12px"> 
 
 
 📫 How to reach me **max@bronnikov.gq**
