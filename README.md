@@ -1,4 +1,3 @@
-![GitHub Dark](https://github.com/github-dark.png#gh-light-mode-only)
 <img src="https://raw.githubusercontent.com/maxbronnikov10/maxbronnikov10/master/header.png" width="100%">
 
 # Hello, I'm Maxim Bronnikov <img src="https://raw.githubusercontent.com/maxbronnikov10/maxbronnikov10/master/wave.gif" width="30px">
@@ -32,8 +31,7 @@ I'm a fullstack developer. I'm from Russia, living in Moskow and currently worki
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![.NET](https://img.shields.io/badge/-.NET-000?&logo=.NET)
-
-
+![Express](https://img.shields.io/badge/-Express-000?&logo=Express)
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=maxbronnikov10&show_icons=true&theme=dracula&title_color=ff8484&bg_color=000&hide_border=true&locale=en" alt="maxbronnikov10" width="405px"/>
