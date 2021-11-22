@@ -15,6 +15,8 @@ I'm a fullstack developer. I'm from Russia, living in Moskow and currently worki
 ### Languages
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS3)
+![Sass](https://img.shields.io/badge/-Sass-000?&logo=Sass)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 ![C#](https://img.shields.io/badge/-CSharp-000?&logo=CSharp)
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
@@ -22,24 +24,37 @@ I'm a fullstack developer. I'm from Russia, living in Moskow and currently worki
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
 ![Sass](https://img.shields.io/badge/-Sass-000?&logo=Sass)
 
+
 ### Technologies
 
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+![GraphQL](https://img.shields.io/badge/-GraphQL-000?&logo=GraphQL)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
+![Redux](https://img.shields.io/badge/-Redux-000?&logo=Redux)
 ![.NET](https://img.shields.io/badge/-.NET-000?&logo=.NET)
 ![Express](https://img.shields.io/badge/-Express-000?&logo=Express)
+![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)
+![npm](https://img.shields.io/badge/-npm-000?&logo=npm)
+![Yarn](https://img.shields.io/badge/-Yarn-000?&logo=Yarn)
+![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
+![gulp](https://img.shields.io/badge/-gulp-000?&logo=gulp)
+![Webpack](https://img.shields.io/badge/-Webpack-000?&logo=Webpack)
+![Babel](https://img.shields.io/badge/-Babel-000?&logo=Babel)
+
+###Tools
+![Visual Studio Code](https://img.shields.io/badge/-VisualStudioCode-000?&logo=VisualStudioCode)
+![Figma](https://img.shields.io/badge/-Figma-000?&logo=Figma)
+![Babel](https://img.shields.io/badge/-VisualStudio-000?&logo=VisualStudio)
+![Notion](https://img.shields.io/badge/-Notion-000?&logo=Notion)
+![GoogleChrome](https://img.shields.io/badge/-GoogleChrome-000?&logo=GoogleChrome)
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=maxbronnikov10&show_icons=true&theme=dracula&title_color=ff8484&bg_color=000&hide_border=true&locale=en" alt="maxbronnikov10" width="405px"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maxbronnikov10&show_icons=true&theme=dracula&title_color=ff8484&bg_color=000&hide_border=true&locale=en&layout=compact" alt="maxbronnikov10" width="405px" height="159px"/>
 </p>
-
-
-
 
 <h3 align="center">Connect with me</h3>
 <p align="center">
