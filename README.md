@@ -1,4 +1,4 @@
-	![GitHub Dark](https://github.com/github-dark.png#gh-light-mode-only)
+![GitHub Dark](https://github.com/github-dark.png#gh-light-mode-only)
 <img src="https://raw.githubusercontent.com/maxbronnikov10/maxbronnikov10/master/header.png" width="100%">
 
 # Hello, I'm Maxim Bronnikov <img src="https://raw.githubusercontent.com/maxbronnikov10/maxbronnikov10/master/wave.gif" width="30px">
