@@ -10,7 +10,6 @@ I'm a fullstack developer. I'm from Russia, living in Moskow and currently worki
 
 📧 How to reach me <a href="mailto:max@bronnikov.gq">max@bronnikov.gq</a>
 
-<h3 align="left">Languages and Tools:</h3>
 ### Languages
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
@@ -19,9 +18,6 @@ I'm a fullstack developer. I'm from Russia, living in Moskow and currently worki
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
-![.NET](https://img.shields.io/badge/-.NET-000?&logo=.NET)
-
-
 
 ### Technologies
 
@@ -31,6 +27,7 @@ I'm a fullstack developer. I'm from Russia, living in Moskow and currently worki
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
+![.NET](https://img.shields.io/badge/-.NET-000?&logo=.NET)
 
 
 
