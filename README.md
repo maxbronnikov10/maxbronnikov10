@@ -3,9 +3,8 @@ I'm a fullstack developer. I'm from Russia, living in Moskow and currently worki
 
 ## Great Developer!
 
-<p align="left"><img src="https://komarev.com/ghpvc/?username=r34son&label=Profile%20views&color=37ff00&style=flat" alt="r34son" /></p>
 
-- 🌱 I’m currently learning everything 🤣
+- <img src="https://raw.githubusercontent.com/maxbronnikov10/maxbronnikov10/master/loading.gif"> I’m currently learning everything <img src="https://raw.githubusercontent.com/maxbronnikov10/maxbronnikov10/master/loading.gif">
 - 🥅 2021-2022 Goals: More and more development
 
 
