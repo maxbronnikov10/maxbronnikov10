@@ -38,7 +38,7 @@ I'm a fullstack developer. I'm from Russia, living in Moskow and currently worki
 
 <h3 align="center">Connect with me</h3>
 <p align="center">
-<a href="https://t.me/yungpiggy" target="blank"><img src="https://raw.githubusercontent.com/maxbronnikov10/maxbronnikov10/master/telegram.png"  ></a>
-<a href="https://instagram.com/theyungpiggy" target="blank"><img align="center" src="https://raw.githubusercontent.com/maxbronnikov10/maxbronnikov10/master/instagram.png" alt="maxbronnikov10" /></a>
+<a href="https://t.me/yungpiggy" target="blank"><img align=top src="https://raw.githubusercontent.com/maxbronnikov10/maxbronnikov10/master/telegram.png"  ></a>
+<a href="https://instagram.com/theyungpiggy" target="blank"><img align=top align="center" src="https://raw.githubusercontent.com/maxbronnikov10/maxbronnikov10/master/instagram.png" alt="maxbronnikov10" /></a>
 </p>
 <p align="center"><a target="_blank" href="https://icons8.com/icon/zwt6G9HIBTaK/goal">Goal</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a></p>
