@@ -1,4 +1,4 @@
-### Hi there, I'm Maxim Bronnikov 👋
+### Hello, I'm Maxim Bronnikov <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 ## Great Developer!
 
