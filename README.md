@@ -15,7 +15,7 @@ I'm a fullstack developer. I'm from Russia, living in Moskow and currently worki
 
 <p>
 <img src="https://github-readme-stats.vercel.app/api?username=maxbronnikov10&show_icons=true&theme=dracula&title_color=ff8484&bg_color=000&hide_border=true&locale=en" alt="maxbronnikov10" width="405px"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=maxbronnikov10&show_icons=true&theme=dracula&title_color=ff8484&bg_color=000&hide_border=true&locale=en&layout=compact" alt="maxbronnikov10" width="405px" height="157px"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=maxbronnikov10&show_icons=true&theme=dracula&title_color=ff8484&bg_color=000&hide_border=true&locale=en&layout=compact" alt="maxbronnikov10" width="405px" height="159px"/>
 </p>
 
 
