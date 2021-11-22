@@ -1,5 +1,5 @@
+![GitHub Dark](https://github.com/github-dark.png#gh-light-mode-only)
 <img src="https://raw.githubusercontent.com/maxbronnikov10/maxbronnikov10/master/header.png" width="100%">
-
 
 # Hello, I'm Maxim Bronnikov <img src="https://raw.githubusercontent.com/maxbronnikov10/maxbronnikov10/master/wave.gif" width="30px">
 I'm a fullstack developer. I'm from Russia, living in Moskow and currently working at Swiftle. 
@@ -21,7 +21,7 @@ I'm a fullstack developer. I'm from Russia, living in Moskow and currently worki
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
-![MongoDB](https://img.shields.io/badge/-Sass-000?&logo=Sass)
+![Sass](https://img.shields.io/badge/-Sass-000?&logo=Sass)
 
 ### Technologies
 
