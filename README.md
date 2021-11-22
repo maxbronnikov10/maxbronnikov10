@@ -1,5 +1,5 @@
 # Hello, I'm Maxim Bronnikov <img src="https://raw.githubusercontent.com/maxbronnikov10/maxbronnikov10/master/wave.gif" width="30px">
-I'm a fullstack developer. I'm from Russia, living in Moskow and currently working at Swiftle. You can find me on  <a href="https://t.me/yungpiggy"><img src="https://raw.githubusercontent.com/maxbronnikov10/maxbronnikov10/master/telegram.gif"  aling="center" width="20px"></a>
+I'm a fullstack developer. I'm from Russia, living in Moskow and currently working at Swiftle. You can find me on  <a href="https://t.me/yungpiggy"><p align="center"><img src="https://raw.githubusercontent.com/maxbronnikov10/maxbronnikov10/master/telegram.gif"   width="20px"></p></a>
 
 ## Great Developer!
 
