@@ -1,5 +1,5 @@
 # Hello, I'm Maxim Bronnikov <img src="https://raw.githubusercontent.com/maxbronnikov10/maxbronnikov10/master/wave.gif" width="30px">
-I'm a fullstack developer. I'm from Russia, living in Moskow and currently working at Swiftle. You can find me on  <a href="https://t.me/yungpiggy"><img src="https://raw.githubusercontent.com/maxbronnikov10/maxbronnikov10/master/telegram.gif"   width="100px"></a>
+I'm a fullstack developer. I'm from Russia, living in Moskow and currently working at Swiftle. 
 
 ## Great Developer!
 
@@ -20,7 +20,9 @@ I'm a fullstack developer. I'm from Russia, living in Moskow and currently worki
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=maxbronnikov10&show_icons=true&theme=radical&hide_border=true&locale=en&layout=compact" alt="maxbronnikov10" /></p>
 
+You can find me on  <a href="https://t.me/yungpiggy"><img src="https://raw.githubusercontent.com/maxbronnikov10/maxbronnikov10/master/telegram.gif"   width="100px"></a>
 <h3 align="center">Connect with me</h3>
 <p align="center">
+<a href="https://t.me/yungpiggy"><img src="https://raw.githubusercontent.com/maxbronnikov10/maxbronnikov10/master/telegram.gif"   width="50px"></a>
 <a href="https://instagram.com/theyungpiggy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="maxbronnikov10" height="30" width="40" /></a>
 </p>
