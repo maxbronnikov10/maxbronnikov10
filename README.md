@@ -1,6 +1,6 @@
-![Header](https://raw.githubusercontent.com/maxbronnikov10/maxbronnikov10/master/header.png "Header")
+![Header](https://raw.githubusercontent.com/maxbronnikov10/maxbronnikov10/master/header.png)
 
-# Hello, I'm Maxim Bronnikov <img src="https://raw.githubusercontent.com/maxbronnikov10/maxbronnikov10/master/wave.gif" width="100%">
+# Hello, I'm Maxim Bronnikov <img src="https://raw.githubusercontent.com/maxbronnikov10/maxbronnikov10/master/wave.gif" width="30px">
 I'm a fullstack developer. I'm from Russia, living in Moskow and currently working at Swiftle. 
 
 ## Great Developer!
