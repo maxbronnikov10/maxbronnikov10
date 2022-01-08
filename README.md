@@ -19,14 +19,10 @@ I am currently working at Swiftle, also ready for a fruitful cooperation togethe
 ### Languages
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS3)
-![Sass](https://img.shields.io/badge/-Sass-000?&logo=Sass)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 ![C#](https://img.shields.io/badge/-CSharp-000?&logo=CSharp)
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
-![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
-![Sass](https://img.shields.io/badge/-Sass-000?&logo=Sass)
 
 
 ### Technologies
@@ -48,6 +44,9 @@ I am currently working at Swiftle, also ready for a fruitful cooperation togethe
 ![gulp](https://img.shields.io/badge/-gulp-000?&logo=gulp)
 ![Webpack](https://img.shields.io/badge/-Webpack-000?&logo=Webpack)
 ![Babel](https://img.shields.io/badge/-Babel-000?&logo=Babel)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
+![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS3)
+![Sass](https://img.shields.io/badge/-Sass-000?&logo=Sass)
 
 ### Tools
 
