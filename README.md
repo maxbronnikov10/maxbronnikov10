@@ -35,6 +35,7 @@ I am currently working at Swiftle, also ready for a fruitful cooperation togethe
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+![Vue](https://img.shields.io/badge/-Vue-000?&logo=vue)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-000?&logo=GraphQL)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Redux](https://img.shields.io/badge/-Redux-000?&logo=Redux)
