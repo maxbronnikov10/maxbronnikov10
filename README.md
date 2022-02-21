@@ -5,7 +5,7 @@ I am a fullstack developer from Moscow, and my activity consists of writing code
 
 I'm a specialist in the world of web development, able to implement both client and server side applications, linking the project to the database and doing system administration. My in-depth understanding of the FrontEnd and BackEnd processes and layers helps me to implement any idea with elegant solutions.
 
-I am currently working at Swiftle, also ready for a fruitful cooperation together.
+I am currently working at MCN Telecom, also ready for a fruitful cooperation together.
 
 ## Great Developer!
 
