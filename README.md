@@ -21,9 +21,10 @@ I am currently working at MCN Telecom, also ready for a fruitful cooperation tog
 ![HTML](https://img.shields.io/badge/-HTML-000?&logo=html5)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
-![C#](https://img.shields.io/badge/-C%23-000?&logo=CSharp)
+![C#](https://img.shields.io/badge/-C%23-000?&logo=CSharp&logoColor=512BD4)
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
 ![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)
+![Python](https://img.shields.io/badge/-Python-000?&logo=python)
 
 ## Technologies
 
@@ -31,16 +32,18 @@ I am currently working at MCN Telecom, also ready for a fruitful cooperation tog
 
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![Express](https://img.shields.io/badge/-Express-000?&logo=Express)
-![GraphQL](https://img.shields.io/badge/-GraphQL-000?&logo=GraphQL)
-![.NET](https://img.shields.io/badge/-.NET-000?&logo=.NET)
+![GraphQL](https://img.shields.io/badge/-GraphQL-000?&logo=GraphQL&logoColor=E10098)
+![.NET](https://img.shields.io/badge/-.NET-000?&logo=.NET&logoColor=512BD4)
 
 ### Frontend
 
 ![Vue](https://img.shields.io/badge/-Vue-000?&logo=vuedotjs)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
-![Redux](https://img.shields.io/badge/-Redux-000?&logo=Redux)
-![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS3)
+![Redux](https://img.shields.io/badge/-Redux-000?&logo=Redux&logoColor=764ABC)
+![Redux-Saga](https://img.shields.io/badge/-Redux_Saga-000?&logo=Redux-Saga&logoColor=999999)
+![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS3&logoColor=1572B6)
 ![Sass](https://img.shields.io/badge/-Sass-000?&logo=Sass)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=Bootstrap&logoColor=7952B3)
 
 ### Databases
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
