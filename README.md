@@ -16,7 +16,7 @@ I am currently working at MCN Telecom, also ready for a fruitful cooperation tog
 
 📧 How to reach me <a href="mailto:max@bronnikov.gq">max@bronnikov.gq</a>
 
-### Languages
+## Languages
 
 ![HTML](https://img.shields.io/badge/-HTML-000?&logo=html5)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
@@ -25,16 +25,16 @@ I am currently working at MCN Telecom, also ready for a fruitful cooperation tog
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
 ![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)
 
-### Technologies
+## Technologies
 
-# Backend
+### Backend
 
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![Express](https://img.shields.io/badge/-Express-000?&logo=Express)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-000?&logo=GraphQL)
 ![.NET](https://img.shields.io/badge/-.NET-000?&logo=.NET)
 
-# Frontend
+### Frontend
 
 ![Vue](https://img.shields.io/badge/-Vue-000?&logo=vuedotjs)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
@@ -42,12 +42,12 @@ I am currently working at MCN Telecom, also ready for a fruitful cooperation tog
 ![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS3)
 ![Sass](https://img.shields.io/badge/-Sass-000?&logo=Sass)
 
-# Databases
+### Databases
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=mysql)
 
-### Tools
+## Tools
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual_Studio_Code-000?&logo=VisualStudioCode&logoColor=007ACC)
 ![Firefox Browser](https://img.shields.io/badge/-Firefox_Browser-000?&logo=Firefox-Browser)
