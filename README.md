@@ -56,7 +56,7 @@ I am currently working at MCN Telecom, also ready for a fruitful cooperation tog
 ![Figma](https://img.shields.io/badge/-Figma-000?&logo=Figma)
 ![Babel](https://img.shields.io/badge/-Visual_Studio-000?&logo=VisualStudio&logoColor=cc96f8)
 ![Notion](https://img.shields.io/badge/-Notion-000?&logo=Notion)
-![Google Chrome](https://img.shields.io/badge/-Google_Chrome-000?&logo=GoogleChrome)
+![Google Chrome](https://img.shields.io/badge/-Google_Chrome-000?&logo=GoogleChrome&logoColor=white)
 ![Firefox Browser](https://img.shields.io/badge/-Firefox_Browser-000?&logo=Firefox-Browser)
 ![Postman](https://img.shields.io/badge/-Postman-000?&logo=postman)
 
