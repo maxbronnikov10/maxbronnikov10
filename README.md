@@ -27,7 +27,6 @@ I am currently working at MCN Telecom, also ready for a fruitful cooperation tog
 
 ## Technologies
 
-<p>
 ### Backend
 
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
@@ -47,7 +46,6 @@ I am currently working at MCN Telecom, also ready for a fruitful cooperation tog
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=mysql)
-</p>
 
 ## Tools
 
