@@ -52,7 +52,7 @@ I am currently working at MCN Telecom, also ready for a fruitful cooperation tog
 
 ### Tools
 
-![Visual Studio Code](https://img.shields.io/badge/-Visual_Studio_Code-000?&logo=VisualStudioCode)
+![Visual Studio Code](https://img.shields.io/badge/-Visual_Studio_Code-000?&logo=VisualStudioCode&logoColor=23a8f2)
 ![Figma](https://img.shields.io/badge/-Figma-000?&logo=Figma)
 ![Babel](https://img.shields.io/badge/-Visual_Studio-000?&logo=VisualStudio&logoColor=cc96f8)
 ![Notion](https://img.shields.io/badge/-Notion-000?&logo=Notion)
