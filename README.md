@@ -47,14 +47,18 @@ I am currently working at MCN Telecom, also ready for a fruitful cooperation tog
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
 ![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS3)
 ![Sass](https://img.shields.io/badge/-Sass-000?&logo=Sass)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=postgresql)
+![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=mysql)
 
 ### Tools
 
-![Visual Studio Code](https://img.shields.io/badge/-VisualStudioCode-000?&logo=VisualStudioCode)
+![Visual Studio Code](https://img.shields.io/badge/-Visual_Studio_Code-000?&logo=VisualStudioCode)
 ![Figma](https://img.shields.io/badge/-Figma-000?&logo=Figma)
-![Babel](https://img.shields.io/badge/-VisualStudio-000?&logo=VisualStudio)
+![Babel](https://img.shields.io/badge/-Visual_Studio-000?&logo=VisualStudio)
 ![Notion](https://img.shields.io/badge/-Notion-000?&logo=Notion)
-![GoogleChrome](https://img.shields.io/badge/-GoogleChrome-000?&logo=GoogleChrome)
+![Google Chrome](https://img.shields.io/badge/-Google_Chrome-000?&logo=GoogleChrome)
+![Firefox Browser](https://img.shields.io/badge/-Firefox_Browser-000?&logo=Firefox-Browser)
+![Postman](https://img.shields.io/badge/-Postman-000?&logo=postman)
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=maxbronnikov10&show_icons=true&theme=dracula&title_color=ff8484&bg_color=000&hide_border=true&locale=en" alt="maxbronnikov10" width="405px"/>
