@@ -18,47 +18,56 @@ I am currently working at MCN Telecom, also ready for a fruitful cooperation tog
 
 ### Languages
 
+![HTML](https://img.shields.io/badge/-HTML-000?&logo=html5)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
-![C#](https://img.shields.io/badge/-CSharp-000?&logo=CSharp)
+![C#](https://img.shields.io/badge/-C%23-000?&logo=CSharp)
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
-
+![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)
 
 ### Technologies
 
-![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
-![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
+# Backend
+
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
-![Vue](https://img.shields.io/badge/-Vue-000?&logo=vuedotjs)
+![Express](https://img.shields.io/badge/-Express-000?&logo=Express)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-000?&logo=GraphQL)
+![.NET](https://img.shields.io/badge/-.NET-000?&logo=.NET)
+
+# Frontend
+
+![Vue](https://img.shields.io/badge/-Vue-000?&logo=vuedotjs)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Redux](https://img.shields.io/badge/-Redux-000?&logo=Redux)
-![.NET](https://img.shields.io/badge/-.NET-000?&logo=.NET)
-![Express](https://img.shields.io/badge/-Express-000?&logo=Express)
-![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)
-![npm](https://img.shields.io/badge/-npm-000?&logo=npm)
-![Yarn](https://img.shields.io/badge/-Yarn-000?&logo=Yarn)
-![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
-![gulp](https://img.shields.io/badge/-gulp-000?&logo=gulp)
-![Webpack](https://img.shields.io/badge/-Webpack-000?&logo=Webpack)
-![Babel](https://img.shields.io/badge/-Babel-000?&logo=Babel)
-![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
 ![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS3)
 ![Sass](https://img.shields.io/badge/-Sass-000?&logo=Sass)
+
+# Databases
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=mysql)
 
 ### Tools
 
-![Visual Studio Code](https://img.shields.io/badge/-Visual_Studio_Code-000?&logo=VisualStudioCode&logoColor=23a8f2)
+![Visual Studio Code](https://img.shields.io/badge/-Visual_Studio_Code-000?&logo=VisualStudioCode&logoColor=007ACC)
+![Firefox Browser](https://img.shields.io/badge/-Firefox_Browser-000?&logo=Firefox-Browser)
 ![Figma](https://img.shields.io/badge/-Figma-000?&logo=Figma)
-![Babel](https://img.shields.io/badge/-Visual_Studio-000?&logo=VisualStudio&logoColor=cc96f8)
+![Babel](https://img.shields.io/badge/-Visual_Studio-000?&logo=VisualStudio&logoColor=5C2D91)
 ![Notion](https://img.shields.io/badge/-Notion-000?&logo=Notion)
 ![Google Chrome](https://img.shields.io/badge/-Google_Chrome-000?&logo=GoogleChrome&logoColor=white)
-![Firefox Browser](https://img.shields.io/badge/-Firefox_Browser-000?&logo=Firefox-Browser)
 ![Postman](https://img.shields.io/badge/-Postman-000?&logo=postman)
+![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=kubernetes)
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
+![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
+![Jira](https://img.shields.io/badge/-Jira-000?&logo=jira)
+![NPM](https://img.shields.io/badge/-NPM-000?&logo=npm)
+![Yarn](https://img.shields.io/badge/-Yarn-000?&logo=Yarn)
+![Gulp](https://img.shields.io/badge/-Gulp-000?&logo=gulp)
+![Webpack](https://img.shields.io/badge/-Webpack-000?&logo=webpack)
+![Babel](https://img.shields.io/badge/-Babel-000?&logo=Babel)
+
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=maxbronnikov10&show_icons=true&theme=dracula&title_color=ff8484&bg_color=000&hide_border=true&locale=en" alt="maxbronnikov10" width="405px"/>
