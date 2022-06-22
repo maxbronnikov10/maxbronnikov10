@@ -31,6 +31,7 @@ I am currently working at MCN Telecom, also ready for a fruitful cooperation tog
 ### Backend
 
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+![Nest.js](https://img.shields.io/badge/-Nest.js-000?&logo=nestjs)
 ![Express](https://img.shields.io/badge/-Express-000?&logo=Express)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-000?&logo=GraphQL&logoColor=E10098)
 ![.NET](https://img.shields.io/badge/-.NET-000?&logo=.NET&logoColor=512BD4)
