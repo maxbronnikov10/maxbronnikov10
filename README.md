@@ -14,7 +14,7 @@ I am currently working at MCN Telecom, also ready for a fruitful cooperation tog
 - <img src="https://raw.githubusercontent.com/maxbronnikov10/maxbronnikov10/master/goal.gif" width="12px" height="12px">  2021-2022 Goals: More and more development <img src="https://raw.githubusercontent.com/maxbronnikov10/maxbronnikov10/master/goal.gif" width="12px" height="12px"> 
 
 
-📧 How to reach me <a href="mailto:max@bronnikov.gq">max@bronnikov.gq</a>
+📧 How to reach me <a href="mailto:max@bronnikov.gq">max@bronnikov.pro</a>
 
 ## Languages
 
