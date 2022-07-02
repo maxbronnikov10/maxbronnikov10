@@ -82,7 +82,6 @@ I am currently working at MCN Telecom, also ready for a fruitful cooperation tog
     <a href="#"><img alt="Maxim's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=maxbronnikov10&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 </p>
     <br/>
-    <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </details>
 
 <br/>
