@@ -75,7 +75,7 @@ I am currently working at MCN Telecom, also ready for a fruitful cooperation tog
     <a href="#">
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="maxbronnikov10's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=maxbronnikov10&theme=monokai-metallian&hide_border=true"/>
     </a>
-    <a href="#"><img alt="Maxim's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=maxbronnikov10&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+    <a href="#"><img alt="Maxim's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=maxbronnikov10&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 </p>
     <br/>
 </details>
