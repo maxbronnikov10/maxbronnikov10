@@ -1,8 +1,9 @@
 <img src="https://raw.githubusercontent.com/maxbronnikov10/maxbronnikov10/master/header.png" width="100%">
 
-<p>
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF8484&width=435&lines=Hello%2C+I'm+Maxim+Bronnikov+" alt="Typing SVG" />
- <img src="https://raw.githubusercontent.com/maxbronnikov10/maxbronnikov10/master/wave.gif" width="30px" height="30px">
+<p float="left">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=2500&pause=1000&color=FF8484&vCenter=true&width=435&height=30&lines=Hello%2C+I'm+Maxim+Bronnikov+" alt="Typing SVG" />
+&nbsp; &nbsp;
+<img src="https://raw.githubusercontent.com/maxbronnikov10/maxbronnikov10/master/wave.gif" width="30px" height="30px">
 </p>
 
 I am a fullstack developer from Moscow, and my activity consists of writing code for software.
