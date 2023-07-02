@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/maxbronnikov10/maxbronnikov10/master/header.png" width="100%">
+[<img src="https://raw.githubusercontent.com/maxbronnikov10/maxbronnikov10/master/header.png" width="100%">
 
 <p float="left">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=2500&pause=1000&color=FF8484&vCenter=true&width=435&height=30&lines=Hello%2C+I'm+Maxim+Bronnikov+" alt="Typing SVG" />
@@ -8,15 +8,14 @@
 
 I am a fullstack developer from Moscow, and my activity consists of writing code for software.
 
-I'm a specialist in the world of web development, able to implement both client and server side applications, linking the project to the database and doing system administration. My in-depth understanding of the FrontEnd and BackEnd processes and layers helps me to implement any idea with elegant solutions.
+I'm a specialist in the world of web development, able to implement both client and server side applications, linking the project to the database and doing system administration. My in-depth understanding of the Frontend and Backend processes and layers helps me to implement any idea with elegant solutions.
 
 I am currently working at MCN Telecom, also ready for a fruitful cooperation together.    
 
 ## Great Developer!
 
-
 - <img src="https://raw.githubusercontent.com/maxbronnikov10/maxbronnikov10/master/loading.gif"> I’m currently learning everything <img src="https://raw.githubusercontent.com/maxbronnikov10/maxbronnikov10/master/loading.gif">
-- <img src="https://raw.githubusercontent.com/maxbronnikov10/maxbronnikov10/master/goal.gif" width="12px" height="12px">  2021-2022 Goals: More and more development <img src="https://raw.githubusercontent.com/maxbronnikov10/maxbronnikov10/master/goal.gif" width="12px" height="12px"> 
+- <img src="https://raw.githubusercontent.com/maxbronnikov10/maxbronnikov10/master/goal.gif" width="12px" height="12px">  2023-2024 Goals: More and more development <img src="https://raw.githubusercontent.com/maxbronnikov10/maxbronnikov10/master/goal.gif" width="12px" height="12px"> 
 
 
 📧 How to reach me <a href="mailto:maxbronnikov24@yandex.ru">maxbronnikov24@yandex.ru</a>
@@ -83,3 +82,4 @@ I am currently working at MCN Telecom, also ready for a fruitful cooperation tog
 <a href="https://t.me/yungpiggy" target="blank"><img align=top src="https://raw.githubusercontent.com/maxbronnikov10/maxbronnikov10/master/telegram.png"  ></a>
 </p>
 <p align="center"><a target="_blank" href="https://icons8.com/icon/zwt6G9HIBTaK/goal">Goal</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a></p>
+](url)
