@@ -1,11 +1,15 @@
 <img src="https://raw.githubusercontent.com/maxbronnikov10/maxbronnikov10/master/header.png" width="100%">
 
-# Hello, I'm Maxim Bronnikov <img src="https://raw.githubusercontent.com/maxbronnikov10/maxbronnikov10/master/wave.gif" width="30px" height="30px">
+<p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF8484&width=435&lines=Hello%2C+I'm+Maxim+Bronnikov+" alt="Typing SVG" />
+ <img src="https://raw.githubusercontent.com/maxbronnikov10/maxbronnikov10/master/wave.gif" width="30px" height="30px">
+</p>
+
 I am a fullstack developer from Moscow, and my activity consists of writing code for software.
 
 I'm a specialist in the world of web development, able to implement both client and server side applications, linking the project to the database and doing system administration. My in-depth understanding of the FrontEnd and BackEnd processes and layers helps me to implement any idea with elegant solutions.
 
-I am currently working at MCN Telecom, also ready for a fruitful cooperation together.
+I am currently working at MCN Telecom, also ready for a fruitful cooperation together.    
 
 ## Great Developer!
 
