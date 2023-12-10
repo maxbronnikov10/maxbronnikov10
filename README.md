@@ -3,7 +3,7 @@
 &nbsp; &nbsp;
 </p>
 
-I am a backend developer from Moscow, and my activity consists of writing code for software.
+I am a backend developer and my activity consists of writing code for software.
 
 I'm a specialist in the world of web development, able to implement both client and server side applications.
 
