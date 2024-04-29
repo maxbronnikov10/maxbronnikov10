@@ -7,17 +7,11 @@ I am a backend developer and my activity consists of writing code for software.
 
 I'm a specialist in the world of web development, able to implement both client and server side applications.
 
-I am currently working at MCN Telecom, also ready for a fruitful cooperation together.    
-
-## Great Developer!
-
-- <img src="https://raw.githubusercontent.com/maxbronnikov10/maxbronnikov10/master/loading.gif"> I’m currently learning everything <img src="https://raw.githubusercontent.com/maxbronnikov10/maxbronnikov10/master/loading.gif">
-- <img src="https://raw.githubusercontent.com/maxbronnikov10/maxbronnikov10/master/goal.gif" width="12px" height="12px">  2023-2024 Goals: More and more development <img src="https://raw.githubusercontent.com/maxbronnikov10/maxbronnikov10/master/goal.gif" width="12px" height="12px"> 
-
+I am currently working at MCN Telecom on Backend/Team Lead Node.js position, also ready for a fruitful cooperation together.    
 
 📧 How to reach me: 
-- <a href="mailto:maxbronnikov24@yandex.ru">Mail</a>
 - <a href="https://t.me/yungpiggy" target="blank">Telegram</a>
+- <a href="https://www.linkedin.com/in/maxim-bronnikov-801b202b0" target="blank">LinkedIn</a>
 
 ## Languages
 
@@ -41,16 +35,16 @@ I am currently working at MCN Telecom, also ready for a fruitful cooperation tog
 ![Sass](https://img.shields.io/badge/-Sass-000?&logo=Sass)
 
 ### Databases
+
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=postgresql)
+![Redis](https://img.shields.io/badge/-Redis-000?&logo=redis)
 
 ## Tools
 
-![Visual Studio Code](https://img.shields.io/badge/-Visual_Studio_Code-000?&logo=VisualStudioCode&logoColor=007ACC)
-![Figma](https://img.shields.io/badge/-Figma-000?&logo=Figma)
+![Kafka](https://img.shields.io/badge/-Kafka-000?&logo=apache-kafka)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=kubernetes)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
-![NPM](https://img.shields.io/badge/-NPM-000?&logo=npm)
 ![Webpack](https://img.shields.io/badge/-Webpack-000?&logo=webpack)
 
 <p align="center">
