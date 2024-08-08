@@ -5,9 +5,7 @@
 
 I am a backend developer and my activity consists of writing code for software.
 
-I'm a specialist in the world of web development, able to implement both client and server side applications.
-
-I am currently working at MCN Telecom on Backend/Team Lead Node.js position, also ready for a fruitful cooperation together.    
+Currently working at MCN Telecom on Backend/Team Lead Node.js position, also ready for a fruitful cooperation together.    
 
 📧 How to reach me: 
 - <a href="https://t.me/yungpiggy" target="blank">Telegram</a>
