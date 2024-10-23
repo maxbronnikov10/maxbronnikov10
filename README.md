@@ -5,8 +5,6 @@
 
 I am a backend developer and my activity consists of writing code for software.
 
-Currently working at MCN Telecom on Backend/Team Lead Node.js position, also ready for a fruitful cooperation together.    
-
 📧 How to reach me: 
 - <a href="https://t.me/yungpiggy" target="blank">Telegram</a>
 - <a href="https://www.linkedin.com/in/maxim-bronnikov-801b202b0" target="blank">LinkedIn</a>
